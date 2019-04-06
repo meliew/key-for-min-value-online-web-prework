@@ -13,9 +13,8 @@ end
 min_key
 end
 
-
+key_for_min_value(name_hash)
 
 
  #how to compare the value of each item of the hash to something
  #store just the value, not the key
-end
