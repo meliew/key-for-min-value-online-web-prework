@@ -7,7 +7,7 @@ min_v = 10000000
 name_hash.each do |key, value|
   if value <= min_v
     min_v = value
-    min_key = key
+    min_k = key
   end
 end
 min_key
